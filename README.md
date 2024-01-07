@@ -33,3 +33,7 @@ The data contains the following variables:
 - Credit_History is whether the applicant has a credit history of repaying debts (“1”) or not (“0”)
 - Status is a categorical variable of whether the loan was granted (“1”) or not (“0”). This is the variable that you need to predict.
 - ID is a unique number to identify the observation in the test set. This variable only appears in the test set.
+
+## Tasks
+This is a KaggleInClass challenge, can find at https://www.kaggle.com/competitions/etc32505250-iml-assignment-2. Join this challenge via this link.
+The task is to predict the Status of whether the loan was approved or not.
